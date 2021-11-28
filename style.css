@@ -2,10 +2,11 @@ body {
     background-color: black;
     font-family: arial;
     color: white;
+    margin: auto;
 }
 
 h1 {
-    color: grey;
+    color: w;
     font-family: verdana
 }
 
